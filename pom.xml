@@ -6,7 +6,7 @@
 
     <groupId>com.payam.learn</groupId>
     <artifactId>vertx-example</artifactId>
-    <version>3.9.0</version>
+    <version>4.5.24</version>
 
     <name>Vertx example</name>
     <properties>
